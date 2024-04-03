@@ -24,3 +24,11 @@ categories: etc
 리빌드 후 다시 jupyter를 켜보면 새로 설치된 폰트 목록이 보일 것이다.
 
 그 다음엔 알아서 쓰면 된다.
+
+=================
+
+수정: 다음 링크 따르는 것이 빠름.
+
+Ref1: [https://mydevjourney.tistory.com/12](https://mydevjourney.tistory.com/12)
+Ref2: [https://stackoverflow.com/questions/73336997/change-font-for-both-labels-and-ticks-on-3d-surface-plot/73341464#73341464](https://stackoverflow.com/questions/73336997/change-font-for-both-labels-and-ticks-on-3d-surface-plot/73341464#73341464)
+
